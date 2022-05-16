@@ -28,5 +28,5 @@ Thank you for using me <a href="https://github.com/skrtdev/FilesBot">😬</a>
 
 Join ℹ️ @RG_Anime_Group if you need any help!
 EOM;
-$GLOBALS["CHECKING_MESSAGE"] = "🤔";
+$GLOBALS["CHECKING_MESSAGE"] = "❤️";
 require_once __DIR__ . "/../vendor/autoload.php";
