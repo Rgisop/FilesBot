@@ -26,7 +26,7 @@ Thank you for using me <a href="https://github.com/skrtdev/FilesBot">😬</a>
 
 <u><b>you can forward me any media message</b></u>, and <b><i>I might help you to create a PUBlic link</i></b>.
 
-Join ℹ️ @RG_Anime_Group if you need any help!
+Join ℹ️ @RG_Anime_Group if you need any help! How to download 👉 @RG_Anime_Group!
 EOM;
 $GLOBALS["CHECKING_MESSAGE"] = "🤔";
 require_once __DIR__ . "/../vendor/autoload.php";
